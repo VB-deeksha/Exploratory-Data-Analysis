@@ -13,4 +13,4 @@
  
 5) Correlation and Causation
 
-6)ANOVA
+6) ANOVA
